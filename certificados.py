@@ -42,7 +42,5 @@ for file in content:
     print(file)
     generate_certificate(nombre, nombre_archivo)
 
-filename = "certificado_modelo.svg"
-
 
 
