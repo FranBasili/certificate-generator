@@ -10,3 +10,6 @@
 	b- Se remplazará el %s por el nombre del alumno en cuestión.
 	c- Se lo exportara como nombrealumno.pdf en la carpeta certificados generados.
 	d- Se borrará el nombrealumno.svg.
+
+
+Proyecto basado en: https://github.com/IEEESBITBA/certificate-generator
